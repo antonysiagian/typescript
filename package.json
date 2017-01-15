@@ -1,0 +1,23 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "just relax to learn type script",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^2.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "T"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/antonysiagian/typescript.git"
+  },
+  "author": "antony",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonysiagian/typescript/issues"
+  },
+  "homepage": "https://github.com/antonysiagian/typescript#readme"
+}
